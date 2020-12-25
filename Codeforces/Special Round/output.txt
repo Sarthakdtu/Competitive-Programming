@@ -1,0 +1,12 @@
+4Call num 0b :3
+Call num 1b :4
+Call num 2b :5
+Call num 3b :6
+Call num 4b :7
+Call num 5b :8
+Call num 6b :9
+Call num 7b :10
+Call num 8b :11
+1819
+6
+70
